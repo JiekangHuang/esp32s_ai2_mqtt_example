@@ -16,8 +16,8 @@ const char *password = "spring66chen";
 
 #define MQTT_BROKER "io.adafruit.com"
 #define MQTT_PORT 8883
-#define MQTT_USERNAME "Zack_Huang"
-#define MQTT_PASSWORD "aio_ujeD1066rHEkwCNvHOG5CaRyVy8t"
+#define MQTT_USERNAME "<YOUR MQTT Username>"
+#define MQTT_PASSWORD "<YOUR MQTT Password>"
 #define MQTT_PUB_TOPIC MQTT_USERNAME "/feeds/sensor"
 #define MQTT_SUB_TOPIC MQTT_USERNAME "/feeds/io"
 
